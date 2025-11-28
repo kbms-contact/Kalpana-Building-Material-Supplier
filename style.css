@@ -1,0 +1,16 @@
+
+head {
+    background-image:url(Background\ 1.png) ;
+
+}
+h1{
+    color: rgb(195, 174, 119);
+    display:inline-flexbox ;
+    font-style: oblique;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 400px;
+}
+p {
+    font-size: 100px;
+}
